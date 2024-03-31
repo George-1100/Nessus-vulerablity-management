@@ -14,6 +14,10 @@ Installed and utilized Nessus on a virtual machine for basic network scanning, u
    ![va2](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/90121f3d-ae40-450c-95cf-99101d07d1ba)
 
 4. Create New scan with name IP address of the target machine (without any credencial) then start the scan
+
+  ![va5](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/8c797a19-d5f3-4022-b1e9-8e375f7e5b12)
+
+ 5. Start the scan
    
    ![va5](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/2f309904-4eb8-4c98-b32c-de24a3dd44ef)
 
@@ -21,7 +25,26 @@ Installed and utilized Nessus on a virtual machine for basic network scanning, u
 
    ![va7](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/eb2d02d6-4eae-4ee3-b04a-b8d1455af0f6)
 
-5. Then create a basic network scan with Creaditials. it will allow to scan installed applications and its vulnnerability
+6. Then create a basic network scan with Creaditials. it will allow to scan installed applications and its vulnnerability
+
+   ![va8](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/83b97b43-fc98-47fd-9d54-db2e1508a47d)
+
+   ![va9](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/2b0f9f41-368b-43e0-9f6f-3d4f2f552cd7)
+
+
+7. Start the credencials scan
+
+   ![va10](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/c01afd77-f579-49f7-a071-0ea1f5547638)
+
+  ![va11](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/a4e4069d-95fd-4f1a-b143-268fc1c0fb4c)
+
+  ![va12](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/b37e9df6-8744-4f3a-9209-0c9bea11f8e8)
+ 
+ 
+
+
+
+   
 
      
 
