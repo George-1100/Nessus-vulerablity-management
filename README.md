@@ -9,7 +9,7 @@ Installed and utilized Nessus on a virtual machine for basic network scanning, u
    
    ![va1](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/3514d57d-cb52-4abe-bcaf-810d15bb3c60)
 
-3. ping the virtual machine with host
+3. ping the virtual machine IP address from the host
    
    ![va2](https://github.com/George-1100/Nessus-vulerablity-management/assets/76154087/90121f3d-ae40-450c-95cf-99101d07d1ba)
 
